@@ -18,10 +18,17 @@ Create data servers in your computer.
 
 ## Get Started
 
-* Download and Install [Vagrant][https://www.vagrantup.com/downloads.html]
-* Download and Install [VirtualBox][https://www.virtualbox.org/wiki/Downloads]
+* Download and Install [Vagrant](https://www.vagrantup.com/downloads.html)
+* Download and Install [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 * Download [oriole-ore](https://github.com/zhouxiaoxiang/oriole-ore)
-* Run ``` vagrant up ```
+* Run
+  * Windows:
+  
+    ` startup `
+  
+  * Linux
+  
+    ` vagrant up `
 
 ## Database Access
 
