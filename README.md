@@ -20,7 +20,7 @@ Create data servers in your computer.
 
 * Download and Install [Vagrant][https://www.vagrantup.com/downloads.html]
 * Download and Install [VirtualBox][https://www.virtualbox.org/wiki/Downloads]
-* Download [GitHub Repository](https://github.com/zhouxiaoxiang/oriole-ore)
+* Download [oriole-ore](https://github.com/zhouxiaoxiang/oriole-ore)
 * Run ``` vagrant up ```
 
 ## Database Access
