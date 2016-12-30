@@ -4,6 +4,8 @@
 
 Create data servers in your computer.
 
+**Work in linux is recommended.**
+
 ## Features
 
 ### System Stuff
@@ -29,6 +31,8 @@ Create data servers in your computer.
   * Linux
   
     ` vagrant up `
+   
+* All softwares can be download from [here](http://pan.baidu.com/s/1slCkXIH)
 
 ## Database Access
 
