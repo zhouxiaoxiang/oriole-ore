@@ -24,13 +24,13 @@ Create data servers in your computer.
 * Download and Install [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 * Download [oriole-ore](https://github.com/zhouxiaoxiang/oriole-ore)
 * Run
-  * Windows:
+  * Windows/mac/debian/ubuntu:
   
-    ` startup `
-  
-  * Linux
-  
-    ` vagrant up `
+  ``` 
+  vagrant add oriole oriole
+  vagrant init
+  vagrant up    
+  ```
    
 * All softwares can be download from [here](http://pan.baidu.com/s/1slCkXIH)
 
